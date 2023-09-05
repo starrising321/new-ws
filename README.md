@@ -1,4 +1,7 @@
+```
 wget https://raw.githubusercontent.com/starrising321/new-ws/main/install-ws; chmod +x install-ws; ./install-ws
+
+```
 
 systemctl enable ws-epro
 
