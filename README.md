@@ -19,11 +19,6 @@ COMMAND 😎🗿
 systemctl stop ws-epro
 
 ```
-COMMAND 😎🗿
-```
 Puerto Local SSH: 22
 
-```
-COMMAND 😎🗿
-```
 Puerto Phyton: 80
